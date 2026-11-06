@@ -1,0 +1,18 @@
+package: community.lazycat.app.grocy
+name: Grocy
+description: "Self-hosted groceries and household management: stock, shopping list, recipes, chores, batteries and tasks."
+version: 4.7.1
+min_os_version: "1.5.0"
+homepage: https://github.com/grocy/grocy
+author: Bernd Bestel
+license: MIT
+permissions:
+  required:
+    - net.internet
+locales:
+  zh:
+    name: Grocy
+    description: "自托管的家务与杂货管理：库存、购物清单、菜谱、家务、电池和任务。"
+  en:
+    name: Grocy
+    description: "Self-hosted groceries and household management: stock, shopping list, recipes, chores, batteries and tasks."
